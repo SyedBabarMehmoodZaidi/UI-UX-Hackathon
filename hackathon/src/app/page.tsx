@@ -1,12 +1,13 @@
 import React from 'react'
-import Home from './components/Home/Home'
+import Hero from './components/Hero/Hero';
+
 
 const Page = () => {
   return (
     <div>
-      <Home />
+      <Hero />
     </div>
   )
 }
 
-export default Page
+export default Page;
