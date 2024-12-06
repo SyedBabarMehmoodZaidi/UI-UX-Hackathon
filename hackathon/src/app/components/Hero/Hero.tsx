@@ -2,7 +2,7 @@ import React from 'react'
 import Image from 'next/image'
 import Apple from '/public/Images/Applelogo.png'
 import HeroPhone from '/public/Images/heroMobile.png'
-import Dot from '/public/Images/Dot.png'
+
 
 const Hero = () => {
   return (
